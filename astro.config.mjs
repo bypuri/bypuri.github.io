@@ -7,7 +7,7 @@ import mdx from '@astrojs/mdx';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://bypuri.github.io',
-  base: '/bloomfolio',
+  base: '/',
   integrations: [mdx()],
   vite: {
     plugins: [tailwindcss()]
