@@ -103,7 +103,7 @@ export const siteConfig: SiteConfig = {
   location: "🇧🇷 Brazil",
   email: "hello@example.com",
   socialLinks: {
-    github: "https://github.com/lauroguedes",
+    github: "https://github.com/bypuri",
     linkedin: "https://linkedin.com/in/lauroguedes",
     twitter: "https://twitter.com/leowg",
     bluesky: "https://bsky.app/profile/lauroguedes.bsky.social",
@@ -131,7 +131,7 @@ export const siteConfig: SiteConfig = {
         label: "Markdown Guide",
       },
       {
-        link: "https://github.com/lauroguedes/bloomfolio",
+        link: "https://github.com/bypuri/bloomfolio",
         icon: CodeXml,
         label: "GitHub Repo",
       },
